@@ -1,0 +1,29 @@
+#mainNav .navbar-brand{
+    font-style: italic;
+    font-weight: bold;
+}
+.nav-link{
+    color: rgba(255, 132, 0, 0.99)
+}
+#mainNav .navbar-toggler{
+    color: rgba(255, 132, 0, 0.99);
+    border: rgba(255, 132, 0, 0.99) 1px solid;
+    padding: .70rem;
+}
+.text-white{
+    font-weight: bold;
+}
+.masthead h1{
+    font-size: 2.5rem;
+    line-height: 2rem;
+    position:relative; top: 150px;
+    font-weight: bolder;
+    color: rgba(255, 255, 255, 0.38);
+}
+.masthead h2{
+    position: relative; top: 150px;
+    font-weight: bold;
+}
+h4{
+    font-weight: bold;
+}
