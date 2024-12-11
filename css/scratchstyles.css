@@ -1,0 +1,44 @@
+body{
+    background-color: rgba(255, 248, 220, 0.763);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(0, 0, 0, 0.844);
+ }
+ h1{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgba(255, 111, 0, 0.776);
+ }
+ .img{
+    border: rgba(255, 111, 0, 0.776) 3px solid;
+    height: 315;
+    width: 600;
+    margin: 3px;
+ }
+ a:hover{
+    text-decoration: wavy;
+    color: rgba(0, 0, 0, 0.784) ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+ }
+ ul:hover{
+    text-decoration: wavy;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ .tableauPlaceholder{
+   position: absolute;
+   padding: 5px;
+   margin: 5px;
+   border: rgba(0, 0, 0, 0.632) 10px solid;
+   right: 3px;
+}
+.interview{
+   border: rgba(255, 111, 0, 0.776) 3px solid;
+   width: 560;
+   height: 325;
+   left: 2px;
+   margin: 3px;
+}
